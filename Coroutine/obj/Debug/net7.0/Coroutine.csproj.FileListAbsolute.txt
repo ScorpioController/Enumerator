@@ -1,0 +1,15 @@
+/Users/amber/RiderProjects/Enumerator/Coroutine/bin/Debug/net7.0/Coroutine
+/Users/amber/RiderProjects/Enumerator/Coroutine/bin/Debug/net7.0/Coroutine.deps.json
+/Users/amber/RiderProjects/Enumerator/Coroutine/bin/Debug/net7.0/Coroutine.runtimeconfig.json
+/Users/amber/RiderProjects/Enumerator/Coroutine/bin/Debug/net7.0/Coroutine.dll
+/Users/amber/RiderProjects/Enumerator/Coroutine/bin/Debug/net7.0/Coroutine.pdb
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.csproj.AssemblyReference.cache
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.AssemblyInfoInputs.cache
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.AssemblyInfo.cs
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.csproj.CoreCompileInputs.cache
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.dll
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/refint/Coroutine.dll
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.pdb
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/Coroutine.genruntimeconfig.cache
+/Users/amber/RiderProjects/Enumerator/Coroutine/obj/Debug/net7.0/ref/Coroutine.dll

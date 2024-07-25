@@ -1,0 +1,15 @@
+/Users/amber/RiderProjects/Enumerator/Enumerator/bin/Debug/net7.0/Enumerator
+/Users/amber/RiderProjects/Enumerator/Enumerator/bin/Debug/net7.0/Enumerator.deps.json
+/Users/amber/RiderProjects/Enumerator/Enumerator/bin/Debug/net7.0/Enumerator.runtimeconfig.json
+/Users/amber/RiderProjects/Enumerator/Enumerator/bin/Debug/net7.0/Enumerator.dll
+/Users/amber/RiderProjects/Enumerator/Enumerator/bin/Debug/net7.0/Enumerator.pdb
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.csproj.AssemblyReference.cache
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.AssemblyInfoInputs.cache
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.AssemblyInfo.cs
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.csproj.CoreCompileInputs.cache
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.dll
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/refint/Enumerator.dll
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.pdb
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/Enumerator.genruntimeconfig.cache
+/Users/amber/RiderProjects/Enumerator/Enumerator/obj/Debug/net7.0/ref/Enumerator.dll

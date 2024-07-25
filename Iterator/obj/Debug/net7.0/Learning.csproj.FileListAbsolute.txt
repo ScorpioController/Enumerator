@@ -1,0 +1,15 @@
+/Users/amber/RiderProjects/Enumerator/Learning/bin/Debug/net7.0/Learning
+/Users/amber/RiderProjects/Enumerator/Learning/bin/Debug/net7.0/Learning.deps.json
+/Users/amber/RiderProjects/Enumerator/Learning/bin/Debug/net7.0/Learning.runtimeconfig.json
+/Users/amber/RiderProjects/Enumerator/Learning/bin/Debug/net7.0/Learning.dll
+/Users/amber/RiderProjects/Enumerator/Learning/bin/Debug/net7.0/Learning.pdb
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.csproj.AssemblyReference.cache
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.AssemblyInfoInputs.cache
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.AssemblyInfo.cs
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.csproj.CoreCompileInputs.cache
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.dll
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/refint/Learning.dll
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.pdb
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/Learning.genruntimeconfig.cache
+/Users/amber/RiderProjects/Enumerator/Learning/obj/Debug/net7.0/ref/Learning.dll

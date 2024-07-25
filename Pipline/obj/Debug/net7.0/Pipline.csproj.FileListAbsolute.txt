@@ -1,0 +1,15 @@
+/Users/amber/RiderProjects/Enumerator/Pipline/bin/Debug/net7.0/Pipline
+/Users/amber/RiderProjects/Enumerator/Pipline/bin/Debug/net7.0/Pipline.deps.json
+/Users/amber/RiderProjects/Enumerator/Pipline/bin/Debug/net7.0/Pipline.runtimeconfig.json
+/Users/amber/RiderProjects/Enumerator/Pipline/bin/Debug/net7.0/Pipline.dll
+/Users/amber/RiderProjects/Enumerator/Pipline/bin/Debug/net7.0/Pipline.pdb
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.csproj.AssemblyReference.cache
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.AssemblyInfoInputs.cache
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.AssemblyInfo.cs
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.csproj.CoreCompileInputs.cache
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.dll
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/refint/Pipline.dll
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.pdb
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/Pipline.genruntimeconfig.cache
+/Users/amber/RiderProjects/Enumerator/Pipline/obj/Debug/net7.0/ref/Pipline.dll
